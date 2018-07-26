@@ -13,7 +13,8 @@
   },
   "meteor": {
     "mainModule": {
-      "server": "server/main.js"
+      "server": "server/main.js",
+      "client": "client/main.js"
     }
   }
 }
